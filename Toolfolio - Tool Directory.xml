@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Toolfolio.io - Latest Tools and Resources</title>
+    <link>https://www.toolfolio.io</link>
+    <description>Your go-to source for the latest tools, resources, and updates on productivity, design, and development.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2024 12:00:00 GMT</lastBuildDate>
+
+    <!-- Item 1 -->
+    <item>
+      <title>A Simple Process to Generate Local Leads and Pitch Web Design and Other Digital Services</title>
+      <link>https://toolfolio.io/productive-value/a-simple-process-to-generate-local-leads-and-pitch-web-design-and-other-digital-services</link>
+      <description>Use ChatGPT to gather leads, review their websites for redesign potential, and focus on one niche to build relationships and referrals.</description>
+      <pubDate>Tue, 10 Oct 2024 09:00:00 GMT</pubDate>
+      <guid>https://toolfolio.io/productive-value/a-simple-process-to-generate-local-leads-and-pitch-web-design-and-other-digital-services</guid>
+    </item>
+
+    <!-- Item 2 -->
+    <item>
+      <title>This Tool Saves Me 5 Hours of Work Every 5 Minutes</title>
+      <link>https://toolfolio.io/productive-value/this-tool-saves-me-5-hours-of-work-every-5-minutes</link>
+      <description>Discover a tool that reduces repetitive tasks by up to 5 hours every few minutes, helping boost productivity significantly.</description>
+      <pubDate>Wed, 11 Oct 2024 10:30:00 GMT</pubDate>
+      <guid>https://toolfolio.io/productive-value/this-tool-saves-me-5-hours-of-work-every-5-minutes</guid>
+    </item>
+
+    <!-- Item 3 -->
+    <item>
+      <title>Compare CleanShotX, Shottr, and Xnapper to Find the Best Screenshot Tool for Your Mac Needs</title>
+      <link>https://toolfolio.io/productive-value/compare-cleanshotx-shottr-and-xnapper-to-find-the-best-screenshot-tool-for-your-mac-needs</link>
+      <description>Compare CleanShotX, Shottr, and Xnapper to discover which screenshot tool best meets your Mac productivity needs.</description>
+      <pubDate>Thu, 12 Oct 2024 08:00:00 GMT</pubDate>
+      <guid>https://toolfolio.io/productive-value/compare-cleanshotx-shottr-and-xnapper-to-find-the-best-screenshot-tool-for-your-mac-needs</guid>
+    </item>
+
+    <!-- Item 4 -->
+    <item>
+      <title>Supercharge Your Workflow with Relume Library and Framer - A Lot of People Don’t Know About This</title>
+      <link>https://toolfolio.io/productive-value/supercharge-your-workflow-with-relume-library-and-framer-a-lot-of-people-don-t-know-about-this</link>
+      <description>Learn how to use Relume Library and Framer together to boost efficiency and enhance your design workflow.</description>
+      <pubDate>Fri, 13 Oct 2024 13:00:00 GMT</pubDate>
+      <guid>https://toolfolio.io/productive-value/supercharge-your-workflow-with-relume-library-and-framer-a-lot-of-people-don-t-know-about-this</guid>
+    </item>
+
+    <!-- Item 5 -->
+    <item>
+      <title>A Comprehensive List of Top Framer Resources for Components, Tutorials, and Templates</title>
+      <link>https://toolfolio.io/productive-value/a-comprehensive-list-of-top-framer-resources-for-components-tutorials-and-templates</link>
+      <description>Explore top Framer resources, including components, tutorials, and templates, to elevate your design projects.</description>
+      <pubDate>Sat, 14 Oct 2024 15:00:00 GMT</pubDate>
+      <guid>https://toolfolio.io/productive-value/a-comprehensive-list-of-top-framer-resources-for-components-tutorials-and-templates</guid>
+    </item>
+
+  </channel>
+</rss>
